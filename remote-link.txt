@@ -1,9 +1,0 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://rational-variations-color-chain.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 07:24:41
-=======================================================
