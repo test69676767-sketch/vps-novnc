@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://magnitude-pregnancy-replica-stood.trycloudflare.com/vnc.html
+URL       : https://william-advisor-indexes-riverside.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 21:01:22
+Created   : 2026-07-02 10:22:22
 =======================================================
