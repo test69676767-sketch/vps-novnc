@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://beds-reed-lecture-publications.trycloudflare.com/vnc.html
+URL       : https://entertaining-cleared-gnome-stories.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 09:12:35
+Created   : 2026-07-04 14:53:48
 =======================================================
