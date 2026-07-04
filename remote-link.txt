@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://decent-preparing-alphabetical-glasgow.trycloudflare.com/vnc.html
+URL       : https://beds-reed-lecture-publications.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 23:42:40
+Created   : 2026-07-04 09:12:35
 =======================================================
