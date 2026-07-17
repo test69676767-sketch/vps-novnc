@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exec-infectious-details-boston.trycloudflare.com/vnc.html
+URL       : https://phone-rated-ensuring-demand.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-16 23:17:42
+Created   : 2026-07-17 07:37:44
 =======================================================
