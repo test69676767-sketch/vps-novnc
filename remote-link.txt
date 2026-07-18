@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dad-vpn-fundamentals-against.trycloudflare.com/vnc.html
+URL       : https://handbook-row-friends-certificates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-17 22:36:57
+Created   : 2026-07-18 07:14:02
 =======================================================
