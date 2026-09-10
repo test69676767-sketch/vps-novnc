@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://extended-candidate-cutting-craps.trycloudflare.com/vnc.html
+URL       : https://eggs-klein-test-live.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 09:28:32
+Created   : 2026-09-10 14:11:06
 =======================================================
