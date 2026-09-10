@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://super-cable-standards-helped.trycloudflare.com/vnc.html
+URL       : https://extended-candidate-cutting-craps.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 03:53:22
+Created   : 2026-09-10 09:28:32
 =======================================================
