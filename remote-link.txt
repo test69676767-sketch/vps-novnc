@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://should-exercise-atom-ratings.trycloudflare.com/vnc.html
+URL       : https://reg-hospital-expiration-comics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 03:53:59
+Created   : 2026-09-12 09:07:34
 =======================================================
