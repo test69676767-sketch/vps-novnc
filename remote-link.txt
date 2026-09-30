@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://association-kit-cms-translation.trycloudflare.com/vnc.html
+URL       : https://dom-tender-adjustable-qty.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 19:55:22
+Created   : 2026-09-30 23:35:57
 =======================================================
