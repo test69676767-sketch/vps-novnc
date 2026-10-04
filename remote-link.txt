@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://promise-elephant-dirt-frequent.trycloudflare.com/vnc.html
+URL       : https://squad-carpet-telescope-oops.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 11:05:27
+Created   : 2026-10-04 18:36:06
 =======================================================
