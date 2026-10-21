@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://training-boats-developers-sie.trycloudflare.com/vnc.html
+URL       : https://lions-animated-raid-representations.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 19:13:55
+Created   : 2026-10-21 23:07:11
 =======================================================
