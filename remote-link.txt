@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://version-ships-begins-yea.trycloudflare.com/vnc.html
+URL       : https://hollow-benefits-institutions-advisory.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 22:59:52
+Created   : 2026-10-24 03:52:29
 =======================================================
