@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://auckland-shortcuts-race-modem.trycloudflare.com/vnc.html
+URL       : https://fred-instructions-pairs-southern.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 20:09:53
+Created   : 2026-10-29 04:58:26
 =======================================================
