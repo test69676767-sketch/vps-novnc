@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mem-guild-string-outlined.trycloudflare.com/vnc.html
+URL       : https://manually-sagem-offered-self.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 23:12:08
+Created   : 2026-11-01 05:04:35
 =======================================================
