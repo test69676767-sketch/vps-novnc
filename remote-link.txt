@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://schools-racks-lawyer-breed.trycloudflare.com/vnc.html
+URL       : https://see-wages-hayes-live.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 05:06:11
+Created   : 2026-11-03 05:53:36
 =======================================================
