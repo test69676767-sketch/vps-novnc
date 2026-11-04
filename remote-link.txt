@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://architectural-recommendations-systems-advantage.trycloudflare.com/vnc.html
+URL       : https://humidity-diego-tools-amazing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 00:30:46
+Created   : 2026-11-04 12:52:02
 =======================================================
